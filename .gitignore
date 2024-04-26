@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# ignore file
+*/bin
+*/build
+*/lib
