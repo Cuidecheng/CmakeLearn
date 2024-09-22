@@ -1,0 +1,6 @@
+[submodule "manifest"]
+	path = manifest
+	url = git@github.com:Cuidecheng/manifest.git
+[submodule "remote-repo"]
+	path = remote-repo
+	url = git@github.com:Cuidecheng/remote-repo.git
